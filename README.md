@@ -5,3 +5,5 @@ Waitlist Page
 the prompt : Create a waitlist landing page with a hero section, 
 email input field, and submit button. Show a live counter of how many people have joined (increment on each submission). 
 On successful submit, trigger a confetti animation. Style beautifully with gradient or modern design.
+
+live link:https://waitlist-page-task-tprc.vercel.app/
